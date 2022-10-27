@@ -1,3 +1,12 @@
+/*
+* 27.10.2022
+* Шлепенков Алексей
+* Telegram: @avesanties
+* Discord: Alexey Sh.#3490
+* e-mail: schlepenkow@gmail.com
+*/
+
+
 import java.io.BufferedReader;;
 import java.io.FileReader;
 import java.io.IOException;
